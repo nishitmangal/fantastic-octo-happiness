@@ -21,7 +21,7 @@ int main() {
       printf("%.1lf - %.1lf = %.1lf", firstnumber, secondnumber, firstnumber - secondnumber);
       break;
     default:
-      printf("Error! calculation sign is not correct");
+      printf("Error! calculation sign is not correct thanks in advance");
   }
 
   return 0;
