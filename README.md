@@ -1,4 +1,6 @@
-# This Repository Contains C Programs
+# This Repository Contains some basic c program
+
+
 
 
 ## HacktoberFest 
