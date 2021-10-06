@@ -1,0 +1,8 @@
+
+#include <stdio.h>
+
+int main()
+{
+    printf("Hacktoberfest");
+    return 0;
+}
